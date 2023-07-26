@@ -34,7 +34,7 @@
 
 | Year      | PDF                                                          | Content                                |
 | --------- | ------------------------------------------------------------ | -------------------------------------- |
-| ACSAC2020 | [FirmAE: Towards Large-Scale Emulation of IoT Firmware for Dynamic Analysis]() | 目前最好用的仿真软件FirmAE做了哪些工作 |
+| ACSAC2020 | [FirmAE: Towards Large-Scale Emulation of IoT Firmware for Dynamic Analysis](https://github.com/Kazamayc/paper/blob/main/iot/FirmAE-ACSAC2020.pdf) | 目前最好用的仿真软件FirmAE做了哪些工作 |
 
 
 
