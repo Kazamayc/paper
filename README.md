@@ -42,13 +42,16 @@
 
 | Year    | PDF                                                          | Content                    |
 | ------- | ------------------------------------------------------------ | -------------------------- |
-| CCS2021 | Snipuzz: Black-box Fuzzing of IoT Firmware via Message Snippet Inference | 物联网固件自动黑盒模糊测试 |
+| CCS2021 | [Snipuzz: Black-box Fuzzing of IoT Firmware via Message Snippet Inference](https://github.com/Kazamayc/paper/blob/main/fuzz/Snipuzz-CCS2021.pdf) | 物联网固件自动黑盒模糊测试 |
 
 
 
+## Honeypots
 
-
-
+| Year         | PDF                                                          | Content |
+| ------------ | ------------------------------------------------------------ | ------- |
+| ACSAC2022    | [Interaction matters: a comprehensive analysis and a dataset of hybrid IoT/OT honeypots](https://github.com/Kazamayc/paper/blob/main/honeypots/RIoTPot-ACSAC2022.pdf) |         |
+| blackhat2017 | [IoTCandyJar: Towards an Intelligent-Interaction Honeypot for IoT Devices]() |         |
 
 
 
