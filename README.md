@@ -51,8 +51,8 @@
 | Year         | PDF                                                          | Content                             |
 | ------------ | ------------------------------------------------------------ | ----------------------------------- |
 | ACSAC2022    | [Interaction matters: a comprehensive analysis and a dataset of hybrid IoT/OT honeypots](https://github.com/Kazamayc/paper/blob/main/honeypots/RIoTPot-ACSAC2022.pdf) |                                     |
-| blackhat2017 | [IoTCandyJar: Towards an Intelligent-Interaction Honeypot for IoT Devices]() | 机器学习技术自动学习IoT知识构建蜜罐 |
-| 信息安全学报 | [物联网蜜罐综述]()                                           | 介绍展望IoT蜜罐知识                 |
+| blackhat2017 | [IoTCandyJar: Towards an Intelligent-Interaction Honeypot for IoT Devices](https://github.com/Kazamayc/paper/blob/main/honeypots/IoTcandyjar-blackhat2017.pdf) | 机器学习技术自动学习IoT知识构建蜜罐 |
+| 信息安全学报 | [物联网蜜罐综述](https://github.com/Kazamayc/paper/blob/main/honeypots/%E7%89%A9%E8%81%94%E7%BD%91%E8%9C%9C%E7%BD%90%E7%BB%BC%E8%BF%B0-%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8%E5%AD%A6%E6%8A%A5.pdf) | 介绍展望IoT蜜罐知识                 |
 
 IoTCandyJar：攻击者对设备一般会进行检查，如果检查失败就不会继续攻击，我们的目的就是通过机器学习（提前传入类似的数据seed）返回给攻击者一个想要的数据。
 
