@@ -54,13 +54,7 @@
 | blackhat2017 | [IoTCandyJar: Towards an Intelligent-Interaction Honeypot for IoT Devices](https://github.com/Kazamayc/paper/blob/main/honeypots/IoTcandyjar-blackhat2017.pdf) | 机器学习技术自动学习IoT知识构建蜜罐 |
 | 信息安全学报 | [物联网蜜罐综述](https://github.com/Kazamayc/paper/blob/main/honeypots/%E7%89%A9%E8%81%94%E7%BD%91%E8%9C%9C%E7%BD%90%E7%BB%BC%E8%BF%B0-%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8%E5%AD%A6%E6%8A%A5.pdf) | 介绍展望IoT蜜罐知识                 |
 
-IoTCandyJar：攻击者对设备一般会进行检查，如果检查失败就不会继续攻击，我们的目的就是通过机器学习（提前传入类似的数据seed）返回给攻击者一个想要的数据。
 
-[IoT、IIoT和CPS领域的蜜罐和蜜网相关研究](https://zhuanlan.zhihu.com/p/516470935)：整理历年来IoT领域的蜜罐技术
-
-
-
-由于最近比赛+工作事情略多，一直未更新，实在惭愧。下周开始恢复此项目的更新，立字为证！(23.11.20)
 
 
 
